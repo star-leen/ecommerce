@@ -136,6 +136,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Paypal Settings below
 # Change to False when you stop using the paypal sandbox
-PAYPAL_TEST = True
-
-PAYPAL_RECEIVER_EMAIL = 'business@sterling.com' #Business PayPal Sandbox account email
+# PAYPAL_TEST = True

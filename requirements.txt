@@ -1,0 +1,4 @@
+Django>=5.0,<5.1
+requests
+pillow
+paypal[standard]<1.2
